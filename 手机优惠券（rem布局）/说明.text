@@ -1,0 +1,5 @@
+做一个移动端的优惠劵界面
+-使用rem布局
+-变量样式表 setting.less
+-适配样式表 adapter.less   
+-当前界面的样式表 index.less
